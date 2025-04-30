@@ -2,24 +2,28 @@
 <h3 align="center">Java-разработчик, инженер-программист</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=destiny962&label=View&color=blueviolet" alt="destiny962" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Java+разработчик;Инженер-программист;Пишу+на+Java,+JavaFX;Всегда+готов+учиться+новому!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=destiny962&label=Просмотры&color=blueviolet" alt="destiny962" />
 </p>
 
 ---
 
 ### 💻 Обо мне:
-- Пишу на **Java**, интересуюсь **JavaFX** и созданием приложений с графическим интерфейсом  
-- Инженер-программист, прокачиваюсь через собственные проекты и практику  
-- Люблю порядок в коде и автоматизацию рутинных задач
+- Пишу на **Java**, особенно люблю **JavaFX**
+- Увлекаюсь разработкой утилит и симуляторов
+- Работаю инженером-программистом, люблю порядок в коде
+- Изучаю программирование системно: от основ до архитектуры
 
 ---
 
-### 🧰 Технологии:
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-0096C9?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![FXML](https://img.shields.io/badge/FXML-333?style=for-the-badge)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+### 🧰 Стек технологий:
+
+| Язык | GUI | Сборка | Контроль версий |
+|------|-----|--------|-----------------|
+| ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) | ![JavaFX](https://img.shields.io/badge/JavaFX-0096C9?style=flat-square&logo=java&logoColor=white) | ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
 
@@ -30,17 +34,33 @@
 
 ---
 
+### 📌 На что можно взглянуть:
+- **RemoteFS** — графическое JavaFX-приложение для подключения к удалённым ПК по сети
+- **LifeSim FX** — симулятор жизни с управлением персонажем (еда, работа, сон, перемещение)
+- **Java-утилиты** — мини-программы, учебные задания, обработка ошибок и тестовые идеи
+
+---
+
 ### 📊 GitHub Статистика:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=destiny962&show_icons=true&theme=tokyonight" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=destiny962&layout=compact&theme=tokyonight" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=destiny962&theme=tokyonight" />
 </p>
 
 ---
 
-### 🚀 Проекты в работе:
-- RemoteFS — графический клиент для подключения к удалённым ПК в сети
+### ❓ Немного обо мне:
+
+- **Почему Java?** → Нравится строгость, архитектура, стабильность.
+- **Что хочу изучить дальше?** → Многопоточность, файлы, базы данных, возможно Android.
+- **Что мне нравится в коде?** → Когда читается как инструкция — понятно, чётко и просто.
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
