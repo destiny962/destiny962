@@ -30,7 +30,7 @@
 ### 📬 Контакты:
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mrxtq)
-[![Email](https://img.shields.io/badge/Email-destiny962@example.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:klyshnikov.alexandr@gmail.com)
+[![Email](https://img.shields.io/badge/Email-klyshnikov.alexandr@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:klyshnikov.alexandr@gmail.com)
 
 ---
 
